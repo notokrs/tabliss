@@ -7,10 +7,7 @@ const QuranSettings: React.FC<Props> = ({ data = defaultData, setData }) => {
 
   return (
     <label>
-      <span style={{ float: "right" }}>
-        <Icon name="play" />
-      </span>
-      Show a new photo
+      Timeout
       <select
         value={data.timeout}
         onChange={(event) =>
