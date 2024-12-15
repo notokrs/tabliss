@@ -1,8 +1,8 @@
-<h1 align="center">Tabliss</h1>
+<h1 align="center">Tabliss fork with quran (id) widget</h1>
 
 <p align="center">A beautiful, customisable New Tab page for Firefox and Chrome.</p>
 
-![Tabliss Screenshot](screenshot.png)
+![Tabliss Screenshot](https://github.com/user-attachments/assets/0b4b0051-6e74-4095-b778-1d98ff983412)
 
 <p align="center"><a href="https://tabliss.io">https://tabliss.io</a></p>
 
